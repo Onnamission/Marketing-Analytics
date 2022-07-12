@@ -2,6 +2,17 @@
 
 Analysis of marketing data for some random company.
 
+## Tech Stack
+
+![Made With R](https://img.shields.io/badge/-r-165CAA?style=for-the-badge&labelColor=grey&logo=r&logoColor=white)
+![Made With Tableau](https://img.shields.io/badge/-tableau-orange?style=for-the-badge&labelColor=grey&logo=tableau&logoColor=white)
+
+## Download
+
+```bash
+  git clone https://github.com/Onnamission/Marketing-Analytics.git
+```
+
 ## About Dataset
 
 The dateset is referred from kaggle which provides information of its marketing of food.
@@ -88,3 +99,10 @@ The r-squared value was below 0.5 for all three, so can't say that above results
 The dashboard is made using tableau. This one only shows customer biography.
 
 ![customer biography](Dashboards/cust_bio.png)
+
+## 🔗 Links
+[![TABLEAU](https://img.shields.io/badge/tableau-orange?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/aditya.kakde)
+
+## Acknowledgements
+
+ - [Dataset](https://www.kaggle.com/datasets/jackdaoud/marketing-data?select=ifood_df.csv)

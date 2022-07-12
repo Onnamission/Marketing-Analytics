@@ -98,7 +98,7 @@ The r-squared value was below 0.5 for all three, so can't say that above results
 
 ### Step 6 - Dashboard
 
-The dashboard is made using tableau. This one only shows customer biography.
+The dashboard is made using tableau. This one only shows customer biography. Helps for targeting during marketing campaigns.
 
 ![customer biography](Dashboards/cust_bio.png)
 

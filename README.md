@@ -1,5 +1,7 @@
 # Marketing Analytics
 
+![marketing analytics](Dashboards/Marketing-Analytics.jpg)
+
 Analysis of marketing data for some random company.
 
 ## Tech Stack

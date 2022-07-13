@@ -108,6 +108,8 @@ The r-squared value was below 0.5 for all three, so can't say that above results
 
 The dashboard is made using tableau. This one only shows people analytics for now. For customer analytics, check [customer analytics](https://github.com/Onnamission/Customer-Segment-Analysis).
 
+Also a correction, consider title as **People Biography** in the below dashboard. This is the crowd which were and not part of the marketing campaign.
+
 ![customer biography](Dashboards/cust_bio.png)
 
 ### Difference between people analytics and customer analytics

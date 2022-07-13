@@ -1,5 +1,13 @@
 # Marketing Analytics
 
+![Github Repo Release](https://img.shields.io/github/release-date/Onnamission/Marketing-Analytics)
+![Github Repo Build](https://img.shields.io/github/workflow/status/Onnamission/Marketing-Analytics/marketinganalytics)
+![Github Repo Checks](https://badgen.net/github/checks/Onnamission/Marketing-Analytics/main)
+![Github Repo Size](https://img.shields.io/github/repo-size/Onnamission/Marketing-Analytics)
+![Github Repo License](https://img.shields.io/github/license/Onnamission/Marketing-Analytics)
+![Github Repo Download](https://img.shields.io/github/downloads/Onnamission/Marketing-Analytics/total)
+![Github Repo Star Req](https://img.shields.io/badge/%F0%9F%8C%9F-If%20Useful-BC4E99)
+
 ![marketing analytics](Dashboards/Marketing-Analytics.jpg)
 
 Analysis of marketing data for some random company.
@@ -98,9 +106,15 @@ The r-squared value was below 0.5 for all three, so can't say that above results
 
 ### Step 6 - Dashboard
 
-The dashboard is made using tableau. This one only shows customer biography. Helps for targeting during marketing campaigns.
+The dashboard is made using tableau. This one only shows people analytics for now. For customer analytics, check [customer analytics](https://github.com/Onnamission/Customer-Segment-Analysis).
 
 ![customer biography](Dashboards/cust_bio.png)
+
+### Difference between people analytics and customer analytics
+
+ - **People Analytics:** Gives the overview of people in the market. The people mentioned is not necessarily company's customers.
+
+ - **Customer Analytics:** Gives the analysis of company's customers behaviour towrds their products.
 
 ## 🔗 Links
 [![TABLEAU](https://img.shields.io/badge/tableau-orange?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/aditya.kakde)
